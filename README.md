@@ -1,7 +1,7 @@
 <div align="center">
   <!-- MAIN HEAD -->
   <h1> Mobile prototypes<br /></h1>
-  <h4> Opis<br /> </h4>
+  <h4><br /> </h4>
   <!-- Content -->
   <table>
     <tbody align="center">
@@ -78,7 +78,3 @@
         </td>
       </tr>
     </tbody>
-
-  PC Games:
-
-  VoidRPG (work in progress)
