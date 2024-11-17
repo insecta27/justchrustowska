@@ -9,7 +9,7 @@
       <tr>
         <!-- column 1 -->
         <th width="350px"> 
-          <a href="https://drive.google.com/file/d/1UQAZZZdins6C2KpWeHdFOq4X_39mqzW6/view?usp=sharing" target="_blank">
+          <a href="https://youtube.com/shorts/IiTsqjVfT7U?feature=share" target="_blank">
             <img src="ReadmeResources/AsteroidPirate/1.png">
             Click to watch a video
         <!-- column 2 -->
