@@ -9,7 +9,7 @@
       <tr>
         <!-- column 1 -->
         <th width="350px"> 
-          <a href="ReadmeResources/AsteroidPirate/movie_035.mp4" target="_blank">
+         https://drive.google.com/file/d/1UQAZZZdins6C2KpWeHdFOq4X_39mqzW6/view?usp=sharing
             <img src="ReadmeResources/AsteroidPirate/1.png" alt="Kliknij, aby zobaczyć film">
         <!-- column 2 -->
         <td width="650px">
