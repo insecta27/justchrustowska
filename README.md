@@ -8,7 +8,9 @@
     <tbody align="center">
       <tr>
         <!-- column 1 -->
-        <th width="350px"> <img src="ReadmeResources/AsteroidPirate/1.png"></th>
+        <th width="350px"> 
+          <a href="ReadmeResources/AsteroidPirate/movie_035.mp4" target="_blank">
+            <img src="ReadmeResources/AsteroidPirate/1.png" alt="Kliknij, aby zobaczyć film">
         <!-- column 2 -->
         <td width="650px">
           <h4>AsteroidPirate!</h4>
