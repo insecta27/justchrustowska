@@ -17,7 +17,6 @@
           👉- Movement mechanics on a sphere
           👉- Sheep collecting mechanics
           👉- Enemy mechanics (turrets that shoot and bombs that follow the player)
-          
         </td>
       </tr>
     </tbody>
