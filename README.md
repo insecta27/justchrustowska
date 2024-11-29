@@ -38,5 +38,5 @@
       </tr>
     </tbody>
 
-  <h1> PC games <br /></h1>
+  <h2> PC games <br /></h2>
 
