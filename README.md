@@ -1,6 +1,6 @@
 <div align="center">
   <!-- MAIN HEAD -->
-  <h1> Mobile prototypes<br /></h1>
+  <h1>Mobile prototypes<br /></h1>
   <h4><br /> </h4>
   <!-- Content -->
   <table>
@@ -11,6 +11,8 @@
           <a href="https://youtube.com/shorts/IiTsqjVfT7U?feature=share" target="_blank">
             <img src="ReadmeResources/AsteroidPirate/1.png">
             Click to watch a video
+          </a>
+        </th>
         <!-- column 2 -->
         <td width="650px">
           <h4>AsteroidPirate!</h4>
@@ -20,14 +22,15 @@
         </td>
       </tr>
     </tbody>
-            
-  <tbody align="center">
+    <tbody align="center">
       <tr>
         <!-- column 1 -->
         <th width="350px"> 
           <a href="https://youtube.com/shorts/f5EdHb_fP4Y?feature=share" target="_blank">
             <img src="ReadmeResources/Harvest/2.png">
             Click to watch a video
+          </a>
+        </th>
         <!-- column 2 -->
         <td width="650px">
           <h4>WaterHarvest</h4>
@@ -37,6 +40,9 @@
         </td>
       </tr>
     </tbody>
+  </table>
 
-  <h2> PC games <br /></h2>
+  <!-- SECOND HEADER BELOW THE TABLE -->
+  <h2>PC Games</h2>
+</div>
 
