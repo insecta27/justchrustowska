@@ -14,9 +14,9 @@
         <!-- column 2 -->
         <td width="650px">
           <h4>AsteroidPirate!</h4>
-          👉- Movement mechanics on a sphere
+          <p>👉- Movement mechanics on a sphere</p>
           <p>👉- Sheep collecting mechanics</p>
-          👉- Enemy mechanics (turrets that shoot and bombs that follow the player)
+          <p>👉- Enemy mechanics (turrets that shoot and bombs that follow the player)</p>
         </td>
       </tr>
     </tbody>
@@ -31,9 +31,9 @@
         <!-- column 2 -->
         <td width="650px">
           <h4>WaterHarvest</h4>
-          👉 - Shop UI window
-          👉 - Upgrade resource
-          👉 - Label displaying the resource with the lowest price
+          <p>👉 - Shop UI window</p>
+          <p>👉 - Upgrade resource</p>
+          <p>👉 - Label displaying the resource with the lowest price</p>
         </td>
       </tr>
     </tbody>
