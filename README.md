@@ -40,6 +40,23 @@
         </td>
       </tr>
     </tbody>
+     <tbody align="center">
+      <tr>
+        <!-- column 1 -->
+        <th width="350px"> 
+          <a href="https://youtube.com/shorts/DOg7GjEDE70" target="_blank">
+            <img src="ReadmeResources/NinjaClimber/Ninja_1080x1920_03.jpg">
+            Click to watch a video
+          </a>
+        </th>
+        <!-- column 2 -->
+        <td width="650px">
+          <h4>NinjaClimber</h4>
+          <p>👉- mechanics of jumping and piercing with a blade
+          <p>👉- enemy mechanics</p>
+        </td>
+      </tr>
+     </tbody>
   </table>
 
   <!-- SECOND HEADER BELOW THE TABLE -->
