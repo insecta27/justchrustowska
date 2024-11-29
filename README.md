@@ -14,8 +14,8 @@
         <!-- column 2 -->
         <td width="650px">
           <h4>AsteroidPirate!</h4>
-          <br>👉- Movement mechanics on a sphere
-          <br>👉- Sheep collecting mechanics
+          👉- Movement mechanics on a sphere
+          <p>👉- Sheep collecting mechanics</p>
           👉- Enemy mechanics (turrets that shoot and bombs that follow the player)
         </td>
       </tr>
