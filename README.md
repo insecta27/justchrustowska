@@ -60,6 +60,22 @@
   </table>
 
   <!-- SECOND HEADER BELOW THE TABLE -->
-  <h2>PC Games</h2>
+  <h2>PC Prototypes</h2>
+  <th width="350px"> 
+          <a href="https://youtube.com/shorts/IiTsqjVfT7U?feature=share" target="_blank">
+            <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
+            Click to watch a video
+          </a>
+        </th>
+        <!-- column 2 -->
+        <td width="650px">
+          <h4>Tiny Boat (title wip)</h4>
+          <p>👉- Created a player state machine with separate states for walking on land and controlling the boat.</p>
+          <p>👉- Implemented camera switching based on the player's active state (land / boat)</p>
+        </td>
+      </tr>
+    </tbody>
+    <tbody align="center">
+      <tr>
 </div>
 
