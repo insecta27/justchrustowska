@@ -61,7 +61,10 @@
 
   <!-- SECOND HEADER BELOW THE TABLE -->
   <h2>PC Prototypes</h2>
-  <th width="350px"> 
+  <table>
+    <tbody align="center">
+      <tr>
+        <th width="350px"> 
           <a href="https://youtu.be/R149Bjdt5t4" target="_blank">
             <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
             Click to watch a video
