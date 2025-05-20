@@ -85,7 +85,7 @@
       <tr>
          <!-- column 1 -->
         <th width="350px"> 
-          <a href="[https://youtu.be/R149Bjdt5t4" target="_blank](https://youtu.be/347Pp9Xd3q8)">
+          <a href="https://youtu.be/347Pp9Xd3q8">
             <img src="ReadmeResources/EnemyAI/Unity_O5PwrAQNED.png">
             Click to watch a video
           </a>
