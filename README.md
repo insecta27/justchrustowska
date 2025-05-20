@@ -85,11 +85,12 @@
       <tr>
          <!-- column 1 -->
         <th width="350px"> 
-          <a href="https://youtu.be/347Pp9Xd3q8">
-            <img src="ReadmeResources/EnemyAI/Unity_O5PwrAQNED.png">
-            Click to watch a video
-              <a href="https://github.com/insecta27/EnemyAI">
-                Click to repo
+        <p>
+          <a href="https://youtu.be/347Pp9Xd3q8">Click to watch a video</a>
+        </p>
+          <p>
+            <a href="https://github.com/insecta27/EnemyAI">Click to repo</a>
+          </p>
           </a>
         </th>
         <!-- column 2 -->
