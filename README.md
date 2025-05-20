@@ -88,12 +88,15 @@
           <a href="https://youtu.be/347Pp9Xd3q8">
             <img src="ReadmeResources/EnemyAI/Unity_O5PwrAQNED.png">
             Click to watch a video
+            <th width = "350px">
+              <a href="https://github.com/insecta27/EnemyAI">
+                Click to repo
           </a>
         </th>
         <!-- column 2 -->
         <td width="650px">
           <h4>EnemyAI</h4>
-          <p>👉- State Machine AI: Monsters operate using a state machine architecture (Guard, Identifying, Attack states).</p>p
+          <p>👉- State Machine AI: Monsters operate using a state machine architecture (Guard, Identifying, Attack states).</p>
           <p>👉Enemy Detection System: Monsters detect enemies within a defined vision range and angle, using Physics.OverlapSphere and angle checks.</p>
           <p>👉Threat Identification Delay: Upon seeing an enemy, monsters first enter an IdentifyingState. After a short delay, they confirm the threat and transition to AttackState.</p>
           <p>👉Ally Alert Mechanism: Monsters in AttackState alert nearby allies from the same faction, allowing coordinated responses.</p>
