@@ -64,6 +64,7 @@
   <table>
     <tbody align="center">
       <tr>
+         <!-- column 1 -->
         <th width="350px"> 
           <a href="https://youtu.be/R149Bjdt5t4" target="_blank">
             <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
@@ -80,5 +81,28 @@
     </tbody>
     <tbody align="center">
       <tr>
+       <tbody align="center">
+      <tr>
+         <!-- column 1 -->
+        <th width="350px"> 
+          <a href="[https://youtu.be/R149Bjdt5t4" target="_blank](https://youtu.be/347Pp9Xd3q8)">
+            <img src="ReadmeResources/EnemyAI/Unity_O5PwrAQNED.png">
+            Click to watch a video
+          </a>
+        </th>
+        <!-- column 2 -->
+        <td width="650px">
+          <h4>EnemyAI</h4>
+          <p>👉- State Machine AI: Monsters operate using a state machine architecture (Guard, Identifying, Attack states).</p>p
+          <p>👉Enemy Detection System: Monsters detect enemies within a defined vision range and angle, using Physics.OverlapSphere and angle checks.</p>
+          <p>👉Threat Identification Delay: Upon seeing an enemy, monsters first enter an IdentifyingState. After a short delay, they confirm the threat and transition to AttackState.</p>
+          <p>👉Ally Alert Mechanism: Monsters in AttackState alert nearby allies from the same faction, allowing coordinated responses.</p>
+          <p>👉Configurable Behavior: All key parameters (vision, speed, delay, alert radius) are easily adjustable via a MonsterSettings scriptable object, making tuning simple for non-programmers.</p>
+        </td>
+      </tr>
+    </tbody>
+    <tbody align="center">
+      <tr>
+        
 </div>
 
