@@ -88,7 +88,6 @@
           <a href="https://youtu.be/347Pp9Xd3q8">
             <img src="ReadmeResources/EnemyAI/Unity_O5PwrAQNED.png">
             Click to watch a video
-            <th width = "350px">
               <a href="https://github.com/insecta27/EnemyAI">
                 Click to repo
           </a>
