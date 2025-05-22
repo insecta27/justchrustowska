@@ -69,6 +69,7 @@
           <a href="https://youtu.be/R149Bjdt5t4" target="_blank">
             <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
             Click to watch a video
+            <a href="https://github.com/insecta27/TinyBoat-/tree/main/Scripts">Click to repo</a>
           </a>
         </th>
         <!-- column 2 -->
