@@ -1,6 +1,5 @@
 using System.Collections;
 using NUnit.Framework;
-using SuperRunner;
 using UnityEngine;
 using UnityEngine.TestTools;
 

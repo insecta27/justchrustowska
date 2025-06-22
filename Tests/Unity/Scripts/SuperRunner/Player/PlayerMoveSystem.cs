@@ -18,10 +18,10 @@ namespace SuperRunner
         private float _dashTime = 0.5f;
         private float _cooldownDuration = 3f;
         private float _cooldownTimer;
+        private bool _dashCooldown;
         private Rigidbody _rb;
         
         public bool isGrounded;
-        public bool _dashCooldown;
         
         LayerMask groundLayer;
 
@@ -125,5 +125,7 @@ namespace SuperRunner
         }
 
         public int GetJumpCount() => _jumpCount;
+        
+        public bool GetDashCooldown() => _dashCooldown;
     }
 }
