@@ -9,7 +9,7 @@
         <!-- column 1 -->
         <th width="350px"> 
           <a href="https://youtube.com/shorts/2SYEPJHHiXg">
-            <img src="Tests/Unity/SuperRunner/sr.png">
+            <img src="Tests/Unity/ReadmeResources/SuperRunner/sr.png">
             Click to watch a video
           </a>
         </th>
