@@ -10,6 +10,7 @@
         <th width="350px"> 
           <a href="https://youtube.com/shorts/2SYEPJHHiXg">
             <img src="Tests/Unity/ReadmeResources/SuperRunner/sr.png">
+            <img src="https://github.com/justchrustowska/Tests/blob/main/Unity/ReadmeResources/SuperRunner/sr.png?raw=true" width="350px">
             Click to watch a video
           </a>
         </th>
