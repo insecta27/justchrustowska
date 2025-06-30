@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Justyna</h1>
 <h3 align="center">Junior Unity Developer</h3>
 
-<p align="left"> <img src="ReadmeResources/Zrzut ekranu 2025-06-30 140117.png" /> </p>
+<p align="left"> <img src="" /> </p>
 
 <p align="left">
 </p>
