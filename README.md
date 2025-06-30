@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="" /> </p>
 
-- 🔭 I’m currently working on [Turn Based Combat System](https://github.com/wiktorsethe/Turn-Based-AI-Combat-System)
-
-- 📫 How to reach me **wiktor_szczepanik@wp.pl**
-
 <p align="left">
 </p>
 
