@@ -9,6 +9,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,unity,androidstudio,rider,figma,windows,apple,jenkins,github" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,unity,androidstudio,rider,figma,windows,apple,jenkins,github" /><br>
   </a>
 </div>
