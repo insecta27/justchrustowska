@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Justyna</h1>
+<h1 align="center">Hi, I'm Justyna🦄</h1>
 <h3 align="center">Junior Unity Developer</h3>
 
-<p align="left"> <img src="" /> </p>
+Hi!👋 I am a Junior Unity Developer with a strong focus on gameplay programming and a passion for creating engaging player experiences.
+
+My expertise lies in implementing core mechanics, designing responsive controls, and building gameplay systems for mobile games.
+
+In this portfolio, you can find examples of my projects and experiments showcasing my technical skills.
 
 <p align="left">
 </p>
